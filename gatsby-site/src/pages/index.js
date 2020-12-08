@@ -1,5 +1,11 @@
 import React from "react"
 
+import TodoList from '../components/TodoList';
+
 export default function Home() {
-  return <div>Hello world!</div>
+  return (
+    <div style={{ margin: "2em"}}>
+      <TodoList/>
+    </div>
+  );
 }
