@@ -1,0 +1,23 @@
+{
+  "name": "example-gatsby",
+  "version": "0.0.0-develop",
+  "description": "example gatsby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kflange/example-gatsby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kflange/example-gatsby/issues"
+  },
+  "homepage": "https://github.com/kflange/example-gatsby#readme",
+  "devDependencies": {
+    "gatsby-cli": "^2.15.0"
+  }
+}
